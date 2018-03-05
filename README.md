@@ -5,7 +5,7 @@
 - Birthday : 1993/10/12
 - Mobile : 0989765805
 - E-Mail : c2514161@gmail.com
-- Personal Website : <a href="https://yetyaya.github.io/resume/" target="_blank"> https://yetyaya.github.io/resume/
+- Personal Website : <a href="https://yetyaya.github.io/resume/" target="_blank"> https://yetyaya.github.io/resume/</a>
 
 <hr>
 
