@@ -1,10 +1,10 @@
 ## 顏翊婷（Yet Yen）
 
-- Education : 國立嘉義大學 - 數位學習設計與管理學系
 - Location : 臺南市(可到臺中工作，目前正在找臺中住處)
 - Birthday : 1993/10/12
 - Mobile : 0989765805
 - E-Mail : c2514161@gmail.com
+- Education : 國立嘉義大學 - 數位學習設計與管理學系
 - Personal Website : <a href="https://yetyaya.github.io/resume/" target="_blank"> https://yetyaya.github.io/resume/</a>
 
 <hr>
@@ -39,7 +39,7 @@
 
 * 能使用 GitHub Pages 建立一個靜態網頁。
 * 對 Git 版本控制有基礎了解，能夠抓取遠端資料庫到本機進行作業、創建分支、合併分支與推送到遠端資料庫。
-* 使用 gulp 進行網頁前端自動化，將 CSS、JS檔案進行優化，並依開發環境調整輸出內容。
+* 使用 Gulp 進行網頁前端自動化，將 CSS、JS檔案進行優化，並依開發環境調整輸出內容。
 
 #### Illustrator/Photoshop/Lightroom/Premiere
 * Illustrator - 進行海報、書籍、logo 設計或 Banner 排版，也可進行向量繪圖。
