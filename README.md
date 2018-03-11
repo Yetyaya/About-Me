@@ -26,13 +26,13 @@
 * 瞭解 HTML 語意，常用 pug (jade) 書寫。
 * 用 CSS 進行排版與 RWD 響應式設計。
 * 能用 CSS3 的 animate、transform 跟 transition 設計動畫效果。
-* 使用 SASS 搭配 mixin 、全域變數設定，進行結構規劃。
+* 使用 SASS 規劃響應式網頁版型。
 * BootStrap 4 - 能從官方資料找出想要的效果並應用在作品上。
  
 #### Javascript/Framework
 
 * Javascript - 了解基礎語法，對於做不出來的效果有能力從網路或書籍尋找解決方法。
-* Jquery - 能自置動畫效果、ajax 抓取第三方 api 資料以及套用 plugin。
+* Jquery - 能自製動畫效果、ajax 抓取第三方 api 資料、善用Plugin 整合第三方插件動畫效果。
 * Vue.js - 知道 computed 與 methods 的差異，並能操作 v-for、v-bind、v-on、v-if、v-model
 
 #### Git/GitHub/Gulp
