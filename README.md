@@ -31,7 +31,7 @@
  
 #### Javascript/Framework
 
-* Javascript - 有了解基礎語法，對於做不出來的效果有能力從網路或書籍尋找解決方法。
+* Javascript - 了解基礎語法，對於做不出來的效果有能力從網路或書籍尋找解決方法。
 * Jquery - 能自置動畫效果、ajax 抓取第三方 api 資料以及套用 plugin。
 * Vue.js - 知道 computed 與 methods 的差異，並能操作 v-for、v-bind、v-on、v-if、v-model
 
