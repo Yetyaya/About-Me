@@ -1,10 +1,9 @@
 ## 顏翊婷（Yet Yen）
 
-- Location : 臺南市(可到臺中工作，目前正在找臺中住處)
-- Birthday : 1993/10/12
 - Mobile : 0989765805
 - E-Mail : c2514161@gmail.com
-- Education : 國立嘉義大學 - 數位學習設計與管理學系
+- Education : 國立嘉義大學 / 數位學習設計與管理學系
+- Location : 臺南市(可到臺中工作，目前正在找臺中住處)
 - Personal Website : <a href="https://yetyaya.github.io/resume/" target="_blank"> https://yetyaya.github.io/resume/</a>
 
 <hr>
