@@ -22,7 +22,7 @@
 
 #### HTML/CSS
 
-* 瞭解 HTML 語意，常用 pug (jade) 書寫。
+* 瞭解 HTML 語意，常用 pug 模板引擎書寫。
 * 用 CSS 進行排版與 RWD 響應式設計。
 * 能用 CSS3 的 animate、transform 跟 transition 設計動畫效果。
 * 使用 SASS 規劃響應式網頁版型。
