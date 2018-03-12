@@ -26,11 +26,11 @@
 * 用 CSS 進行排版與 RWD 響應式設計。
 * 能用 CSS3 的 animate、transform 跟 transition 設計動畫效果。
 * 使用 SASS 規劃響應式網頁版型。
-* BootStrap 4 - 能從官方資料找出想要的效果並應用在作品上。
+* BootStrap 4 - 能從官方資料找出想要的效果並應用。
  
 #### Javascript/Framework
 
-* JavaScript - 了解原生語法，能以此呈現流暢的用戶體驗。
+* JavaScript - 瞭解原生語法。
 * jQuery - 能客製動畫效果、ajax 抓取第三方 API 資料。
 * Vue.js - 能操作 v-for、v-bind、v-on、v-if、v-model 等更好地組織與簡化 Web 開發。
 
@@ -98,4 +98,4 @@
 <hr>
 
 ### 未來計劃
-* 深入學習前端框架，熟悉 Vue 、 React 他們的生命週期。
+* 更深入瞭解前端框架，熟悉 Vue 、 React 他們的生命週期。
