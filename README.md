@@ -31,8 +31,8 @@
 #### Javascript/Framework
 
 * JavaScript - 了解原生語法，能以此呈現流暢的用戶體驗。
-* jQuery - 能客製動畫效果、ajax 抓取第三方 API 資料、善用 Plugin 整合第三方插件。
-* Vue.js - 知道 computed 與 methods 的差異，並能操作 v-for、v-bind、v-on、v-if、v-model
+* jQuery - 能客製動畫效果、ajax 抓取第三方 API 資料。
+* Vue.js - 能操作 v-for、v-bind、v-on、v-if、v-model 等更好地組織與簡化 Web 開發。
 
 #### Git/GitHub/Gulp
 
