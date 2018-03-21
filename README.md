@@ -3,7 +3,7 @@
 - Mobile : 0989765805
 - E-Mail : c2514161@gmail.com
 - Education : 國立嘉義大學 / 數位學習設計與管理學系
-- Location : 臺南市(目前正在尋找臺中住處)
+- Location : 臺南市(已有臺中住處)
 - Personal Website : <a href="https://yetyaya.github.io/resume/" target="_blank"> https://yetyaya.github.io/resume/</a>
 
 <hr>
