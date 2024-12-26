@@ -73,14 +73,14 @@
 * <a href="https://www.fusheng2015.com/index.html" target="_blank"><B>Fusheng 富盛國際實業</B> (JavaScript / jQuery / Pug / Sass)</a> <BR>
   - 將客戶提供的產品照片進行後製，並依使用情境去背，製作產品介紹圖。
   - RWD 響應式介面，PC 端與行動裝置都能閱讀網站資訊。
+ 
+* <a href="https://yetyaya.github.io/playthepiano/" target="_blank"><B>Play the piano</B> (Vue.js / Pug / Sass)</a> <BR>
+  - 透過 v-bind 加上 三元運算子，增加 class 效果。
+  - 利用 setInterval 及 push 物件資料，動態更改樂譜陣列內容。
   
 * <a href="https://yetyaya.github.io/todolist/" target="_blank"><B>待辦清單</B> (Vue.js / Pug / Sass / localStorage)</a> <BR>
   - 將資料存入瀏覽器的 localStorage，能抓取需要的資料，並即時新增刪除資料。
   - 透過 computed 、 methods 的搭配切換，實現點擊全部、未完成、完成等選項時，動態更改內容屬性。
-  
-* <a href="https://yetyaya.github.io/playthepiano/" target="_blank"><B>Play the piano</B> (Vue.js / Pug / Sass)</a> <BR>
-  - 透過 v-bind 加上 三元運算子，增加 class 效果。
-  - 利用 setInterval 及 push 物件資料，動態更改樂譜陣列內容。
 
 <hr>
 
