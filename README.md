@@ -1,4 +1,4 @@
-## 顏翊婷（Yet Yen）
+## 顏翊婷（Yi-Ting Yen）
 
 - Mobile : 0989765805
 - E-Mail : c2514161@gmail.com
