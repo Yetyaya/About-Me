@@ -4,7 +4,7 @@
 - E-Mail : c2514161@gmail.com
 - Education : 國立嘉義大學 / 數位學習設計與管理學系
 - Location : 臺中市
-- Personal Website : <a href="https://yetyaya.github.io/resume/" target="_blank"> https://yetyaya.github.io/resume/</a>
+- Personal Website : <a href="https://yetyaya.github.io/resume/" target="_blank"> https://yetyaya.github.io/Profolio/</a>
 
 <hr>
 
