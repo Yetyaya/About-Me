@@ -73,6 +73,7 @@
 ### 作品
 
 * <a href="https://aic.csh.org.tw/poolens/verify" target="_blank"><B>清腸辨識</B> (Vue.js / JavaScript / Pug / Sass / BarcodeDetector)</a> <BR>
+  - 如使用電腦開啟網站，請將瀏覽器視窗調為直式。另外，因 QR Code 掃描條件為住院病患才可使用，請手動輸入號碼 99999994 才可查看畫面。
   - 主導專案需求分析與功能規劃，確保前後端開發共識一致，並協助團隊跨部門溝通病患隱私規範。
   - 運用 Figma 製作互動式原型，將複雜的臨床流程轉化為直覺易用的介面，並以 Vue.js 框架進行開發。
   - 串接 BarcodeDetector API，實現病患掃描手環 QR Code 上傳照片的功能。
